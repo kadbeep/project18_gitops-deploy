@@ -1,4 +1,4 @@
 variable "message" {
   type    = string
-  default = "Hello from GitOps v1"
+  default = "Hello from GitOps v2"
 }
